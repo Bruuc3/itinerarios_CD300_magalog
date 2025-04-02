@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Itinerários Magalu CD300</title>
+    <link rel="icon" href="images/busicon.png">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
+</head>
+<body>
+
+    <header>
+        <a href="index.html" class="back-arrow" aria-label="Voltar para a página inicial">
+            <img src="images/back-button.png" alt="Voltar" class="back-arrow-img">
+        </a>
+        <a href="index.html"><h1>Itinerários Magalu CD300 - ADM Sexta-Feira</h1></a>
+        
+    </header>
+    <div class="gradiente"></div>
+
+    <p>Escolha um itinerário abaixo para visualizar</p>
+
+    <div class="containeritinerarios">
+        <a class="containerturnos-item">01 - Campo Limpo</a>
+        <a class="containerturnos-item">02 - Botujuru</a>
+        <a class="containerturnos-item">03 - Franco Da Rocha</a>
+        <a class="containerturnos-item">04 - Itupeva</a>
+        <a class="containerturnos-item">05 - Varzea Paulista</a>
+        <a class="containerturnos-item">06 - Louveira</a>
+        <a class="containerturnos-item">07 - Cidade Nova</a>
+        <a class="containerturnos-item">08 - Moinho</a>
+
+    </div>
+
+        <div id="overlay" class="overlay">
+        <header class="overlay-header">
+            <a href="#" class="close-overlay" aria-label="Fechar">
+                <img src="images/back-button.png" alt="Voltar" class="back-arrow-img">
+            </a>
+            <h1 id="overlay-title">Detalhes do Itinerário</h1>
+        </header>
+        <div class="overlay-content">
+            <table class="itinerary-table">
+                <thead>
+                    <tr>
+                        <th>Endereço</th>
+                        <th>Ponto de Referência</th>
+                        <th>Horário</th>
+                    </tr>
+                </thead>
+                <tbody id="itinerary-data">
+                    <!-- Os dados serão preenchidos dinamicamente -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+    
+    <script>
+        let itineraries = {};
+    
+        // Função para carregar o arquivo CSV
+        function loadCSV() {
+        Papa.parse("itinerariosadmsexta.csv", {
+        download: true,
+        header: true,
+        encoding: "UTF-8", // Garante que o arquivo seja interpretado como UTF-8
+        complete: function (results) {
+            processCSVData(results.data);
+        },
+        error: function (error) {
+            console.error("Erro ao carregar o arquivo CSV:", error);
+        }
+    });
+}
+
+    function fixEncoding(str) {
+        return decodeURIComponent(escape(str));
+    }
+
+    function processCSVData(data) {
+        data.forEach(row => {
+            const itinerario = fixEncoding(row.itinerario);
+            const endereco = fixEncoding(row.endereco);
+            const referencia = fixEncoding(row.referencia);
+            const horario = row.horario;
+
+            if (!itineraries[itinerario]) {
+                itineraries[itinerario] = [];
+            }
+            itineraries[itinerario].push({ endereco, referencia, horario });
+        });
+    }
+    
+        // Processa os dados do CSV e organiza por itinerário
+        function processCSVData(data) {
+            data.forEach(row => {
+                const { itinerario, endereco, referencia, horario } = row;
+                if (!itineraries[itinerario]) {
+                    itineraries[itinerario] = [];
+                }
+                itineraries[itinerario].push({ endereco, referencia, horario });
+            });
+        }
+    
+        // Exibe a tela sobreposta com os dados do itinerário
+        document.querySelectorAll('.containerturnos-item').forEach(item => {
+            item.addEventListener('click', function () {
+                const locationName = this.textContent.trim();
+                const overlay = document.getElementById('overlay');
+                const overlayTitle = document.getElementById('overlay-title');
+                const itineraryData = document.getElementById('itinerary-data');
+    
+                // Atualiza o título e os dados da tabela
+                overlayTitle.textContent = `Itinerário: ${locationName}`;
+                if (itineraries[locationName]) {
+                    itineraryData.innerHTML = itineraries[locationName]
+                        .map(row => `
+                            <tr>
+                                <td>${row.endereco}</td>
+                                <td>${row.referencia}</td>
+                                <td>${row.horario}</td>
+                            </tr>
+                        `).join('');
+                } else {
+                    itineraryData.innerHTML = `<tr><td colspan="3">Nenhum dado encontrado.</td></tr>`;
+                }
+    
+                // Exibe a tela sobreposta
+                overlay.style.display = 'block';
+            });
+        });
+    
+        // Fecha a tela sobreposta
+        document.querySelector('.close-overlay').addEventListener('click', function (e) {
+            e.preventDefault();
+            document.getElementById('overlay').style.display = 'none';
+        });
+    
+        // Carrega o CSV ao iniciar
+        loadCSV();
+    </script>
+
+
+
+</body>
+</html>

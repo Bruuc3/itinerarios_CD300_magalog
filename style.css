@@ -1,0 +1,353 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    outline: 0;
+    padding: 0
+}
+
+html {
+    background-color: #f6f7f7;
+    background-image: linear-gradient(135deg,#f8fafd 25%,transparent 0),linear-gradient(225deg,#f8fafd 25%,transparent 0),linear-gradient(45deg,#f8fafd 25%,transparent 0),linear-gradient(315deg,#f8fafd 25%,#f6f7f7 0);
+    background-position: 33px 0,33px 0,0 0,0 0;
+    background-repeat: repeat;
+    background-size: 66px 66px;
+    height: -webkit-fill-available
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f8fafd;
+  font-family: Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  margin: 0;
+  padding: 0;
+  width: 100%; /* Garante que o body ocupe toda a largura */
+  min-height: -webkit-fill-available;
+}
+
+
+header {
+  background-color: #0086ff;
+  color: white;
+  display: flex; /* Ativa o Flexbox */
+  align-items: center; /* Centraliza verticalmente os itens */
+  justify-content: center; /* Centraliza horizontalmente o conteúdo */
+  font-size: 9px;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 20px;
+  width: 100%;
+  position: relative;
+  text-decoration: none;
+  text-align: center;
+}
+
+.headerindex {
+  background-color: #0086ff;
+  color: white;
+  display: flex; /* Ativa o Flexbox */
+  flex-direction: column;
+  align-items: center; /* Centraliza verticalmente os itens */
+  justify-content: center; /* Centraliza horizontalmente o conteúdo */
+  font-size: 9px;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 20px;
+  width: 100%;
+  position: relative;
+  text-decoration: none;
+  text-align: center;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+.developer-text {
+  font-size: 10px; /* Tamanho menor que o h1 */
+  color: white; /* Cor branca para combinar com o estilo da header */
+  text-align: center; /* Centraliza o texto */
+  margin: 0; /* Remove margens extras */
+  padding-bottom: 5px; /* Adiciona um pequeno espaçamento abaixo do texto */
+}
+
+.gradiente{
+    
+        height: 4px;
+        background: linear-gradient(90deg, rgb(251, 229, 59) 0%, rgb(255, 79, 1) 17%, rgb(255, 20, 179) 35%, rgb(128, 0, 255) 55%, rgb(0, 193, 255) 80%, rgb(23, 240, 54) 100%);
+        box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2), 0px 4px 5px 0px rgba(0, 0, 0, 0.14), 0px 1px 10px 0px rgba(0, 0, 0, 0.12);
+
+}
+
+p{
+    text-align: center;
+    padding: 10px;
+}
+
+
+
+.containerturnos {
+  display: flex;
+  flex-direction: column;
+  margin: 10px auto; /* Centraliza horizontalmente */
+  gap: 20px;
+  max-width: 800px; /* Define uma largura máxima */
+  padding: 0 20px; /* Adiciona espaçamento interno nas laterais */
+  vertical-align: middle;
+  text-align: center;
+}
+
+.containerturnos-item {
+    min-width: 130px;
+    height: 53px;
+    color: #fff;
+    padding: 15px 10px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    border-radius: 5px;
+    border: none;
+    background: #0086ff;
+    box-shadow: 0 5px #246ada;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+  }
+  .containerturnos-item:hover {
+    box-shadow: 0 3px #246ada;
+    top: 1px;
+  }
+  .containerturnos-item:active {
+    box-shadow: 0 0 #246ada;
+    top: 5px;
+  }
+
+  
+
+  .containerforms{
+    display: flex;
+    flex-direction: column;
+    margin: 10px auto; /* Centraliza horizontalmente */
+    gap: 20px;
+    max-width: 800px; /* Define uma largura máxima */
+    padding: 0 20px; /* Adiciona espaçamento interno nas laterais */
+
+}
+
+.containerforms-item {
+    min-width: 130px;
+    height: 40px;
+    color: #fff;
+    padding: 12px 10px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    border-radius: 5px;
+    border: none;
+    background: #0086ff;
+    box-shadow: 0 5px #246ada;
+    text-align: center;
+    text-decoration: none;
+  }
+  .containerforms-item:hover {
+    box-shadow: 0 3px #246ada;
+    top: 1px;
+  }
+  .containerforms-item:active {
+    box-shadow: 0 0 #246ada;
+    top: 5px;
+  }
+
+.containeritinerarios {
+  display: grid; /* Altere para Grid Layout */
+  grid-template-columns: repeat(2, 1fr); /* Define duas colunas de tamanhos iguais */
+  gap: 20px; /* Espaçamento entre os itens */
+  margin: 10px auto; /* Centraliza o contêiner horizontalmente */
+  max-width: 800px; /* Define uma largura máxima para o contêiner */
+  padding: 0 20px; /* Adiciona espaçamento interno */
+}
+
+.containeritinerarios-item {
+    min-width: 130px;
+    height: 40px;
+    color: #fff;
+    padding: 12px 10px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    border-radius: 5px;
+    border: none;
+    background: #0086ff;
+    box-shadow: 0 5px #246ada;
+    text-align: center;
+    text-decoration: none;
+  }
+  .containeritinerarios-item:hover {
+    box-shadow: 0 3px #246ada;
+    top: 1px;
+  }
+  .containeritinerarios-item:active {
+    box-shadow: 0 0 #246ada;
+    top: 5px;
+  }
+
+.back-arrow {
+    display: flex;
+    align-items: center; /* Centraliza a imagem verticalmente */
+    margin-right: 10px; /* Espaçamento entre a imagem e o texto */
+    text-decoration: none; /* Remove o sublinhado do link */
+    width: 30px;
+}
+
+.back-arrow-img {
+    width: 24px; /* Ajuste o tamanho da imagem */
+    height: auto; /* Mantém a proporção da imagem */
+}
+
+.overlay {
+  display: none;
+  position: fixed;
+  z-index: 1000;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  overflow: auto;
+}
+
+.overlay-header {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  background-color: #0086ff;
+  color: white;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.overlay-header h1 {
+  margin: 0 auto;
+  font-size: 24px;
+}
+
+.close-overlay {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  left: 20px;
+}
+
+.overlay-content {
+  padding: 20px;
+  color: white;
+}
+
+.overlay {
+  display: none;
+  position: fixed;
+  z-index: 1000;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  overflow: auto;
+}
+
+.overlay-header {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start; /* Alinha os itens no início */
+  padding: 20px;
+  background-color: #0086ff;
+  color: white;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.overlay-header h1 {
+  margin-left: 70px; /* Espaçamento entre o botão de voltar e o título */
+  font-size: 24px;
+  color: white;
+  text-align: center;
+}
+
+.close-overlay {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.itinerary-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  background-color: white; /* Fundo branco para a tabela */
+}
+
+.itinerary-table th {
+  background-color: #0086ff; /* Fundo azul para o cabeçalho */
+  color: white; /* Letras brancas no cabeçalho */
+  padding: 10px;
+  text-align: left;
+}
+
+.itinerary-table td {
+  color: black; /* Letras pretas para as células */
+  padding: 10px;
+  text-align: left;
+  border: 1px solid #ddd; /* Bordas cinzas claras */
+}
+
+.itinerary-table tr:nth-child(even) {
+  background-color: #f9f9f9; /* Fundo cinza claro para linhas pares */
+}
+
+.itinerary-table tr:nth-child(odd) {
+  background-color: white; /* Fundo branco para linhas ímpares */
+}
+
+/* Ajusta a centralização do texto na tabela para todas as telas */
+.itinerary-table th, .itinerary-table td {
+  text-align: center; /* Centraliza horizontalmente */
+  vertical-align: middle; /* Centraliza verticalmente */
+}
+
+/* Ajusta a largura do cabeçalho para telas maiores */
+.overlay-header h1 {
+  margin: 0 auto; /* Garante que o título fique centralizado horizontalmente */
+  text-align: center; /* Centraliza o texto no cabeçalho */
+  flex-grow: 1; /* Faz o título ocupar o espaço restante */
+  font-size: 24px; /* Mantém o tamanho da fonte */
+}
+
+/* Ajusta o layout para telas menores */
+@media screen and (max-width: 768px) {
+  .overlay-header {
+    justify-content: center; /* Centraliza o conteúdo no cabeçalho */
+  }
+
+  .overlay-header h1 {
+    margin-left: 0; /* Remove o espaçamento lateral em telas pequenas */
+    font-size: 20px; /* Reduz o tamanho da fonte para caber melhor */
+  }
+
+  .close-overlay {
+    position: absolute;
+    left: 10px; /* Ajusta a posição do botão de voltar */
+  }
+}
+
