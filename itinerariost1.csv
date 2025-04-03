@@ -45,3 +45,238 @@ itinerario,endereco,referencia,horario
 01 - Colina Do Pontal,Av. Jundiai - Anhangabau - Jundiai,Festa da Uva,5:15
 01 - Colina Do Pontal,Marginal da Rod. Anhanguera - Retiro - Jundiai,Passarela Carrefour,5:17
 01 - Colina Do Pontal,Rod. Dom Gabriel Paulino Couto - Distrito Industrial - Jundiai,Sem Ponto,5:20
+02 - Botujuru,R. Bela Vista - Botujuru - Campo Limpo Pta,Terminal Botujuru,4:00
+02 - Botujuru,R. Bela Vista - Botujuru - Campo Limpo Pta,Estacao Ferroviaria de Botujuru,4:01
+02 - Botujuru,Estr. Faustino Bizeto - Botujuru - Campo Limpo Pta,Lanchonete e sorveteria Maga,4:03
+02 - Botujuru,Estr. Faustino Bizeto - Botujuru - Campo Limpo Pta,Acai da Praca,4:04
+02 - Botujuru,R. Francisco Miguel - Centro - Campo Limpo Pta,Mega Real,4:08
+02 - Botujuru,Rua Campos Salles - Centro - Campo Limpo Pta,Praca dos Estudantes,4:09
+02 - Botujuru,Rua Julio Prestes - Centro - Campo Limpo Pta,Emporio BRS,4:10
+02 - Botujuru,Rodovia Edgard Maximo Zamboto - Jardim Santa Lucia - Campo Limpo Pta,Trevo de Campo Limpo Paulista,4:11
+02 - Botujuru,Rua Palmeiras dos indios - Jd. Vista Alegre - Campo Limpo pta,Ate Mercado Vitoria e retorna,4:13
+02 - Botujuru,Rod. Edgar Maximo Zamboto - Lagoa Branca - Campo Limpo pta,Posto Combustivel,4:14
+02 - Botujuru,Rod. Edgar Maximo Zamboto - Lagoa Branca - Campo Limpo pta,Rancho da Pamonha,4:15
+02 - Botujuru,Av. Dom Pedro I - Jd. Guanciale - Campo Limpo Pta,Rapido Luxo Campinas,4:18
+02 - Botujuru,Av. 21 de Marco - Jd. Felicidade - Varzea Paulista,3ª Companhia da Policia Militar,4:20
+02 - Botujuru,R. Inglaterra - Jd. Promeca - Varzea Paulista,Ponto de onibus Urbano,4:21
+02 - Botujuru,R. Victorio Spinucci - Jd. Promeca - Varzea Paulista,Panificadora & Confeitaria Trigal,4:22
+02 - Botujuru,Av. Duque de Caxias - Centro Varzea Pta - Varzea Paulista,Shopping Alegria,4:24
+02 - Botujuru,Av. Ipiranga - Centro Varzea Pta - Varzea Paulista,Espaco Cidadania,4:27
+02 - Botujuru,Av. Fernao dias Paes Leme - Centro Varzea Pta - Varzea Paulista,Banco do Brasil,4:29
+02 - Botujuru,Av. Fernao dias Paes Leme - Maria de Fatima - Varzea Paulista,Lojas Cem,4:30
+02 - Botujuru,Av. Fernao dias Paes Leme - Vila Cristo - Varzea Divisa Jundiai,Ponto da Caedu,4:31
+02 - Botujuru,R. Olivio Moro - Buriti - Varzea Divisa Jundiai,Mercado Dinho,4:35
+02 - Botujuru,R. Mathias Mucha - Buriti - Jundiai,Mecanica Doda,4:36
+02 - Botujuru,Av. Nacoes Unidas - Vila Esperanca - Jundiai,area de Lazer Ivete do Carmo (Parquinho),4:37
+02 - Botujuru,R. Guilherme Augusto Baad - Vila Esperanca - Jundiai,Ponto de onibus Urbano,4:38
+02 - Botujuru,R. Ricardo Gobbo - Vila Esperanca - Jundiai,Ponto de onibus Urbano,4:39
+02 - Botujuru,R. Elizia Machado Benassi - Cidade Jardim - Jundiai,Residencial Orquidea,4:40
+02 - Botujuru,R. Elizia Machado Benassi - Cidade Jardim - Jundiai,Residencial Magnolia,4:41
+02 - Botujuru,R. Vitor Marcelo de Castro - Cidade Jardim - Jundiai,Mercearia e Padaria Center Pao,4:42
+02 - Botujuru,R. Pedro Kramer - Cidade Jardim - Jundiai,Ponto de onibus Urbano,4:43
+02 - Botujuru,R. Juraci Pauperio - Cidade Jardim - Jundiai,Arena Pizza,4:44
+02 - Botujuru,R. Rachid Jorge Cury - Jd. Do Lago - Jundiai,Ponto de onibus Urbano,4:45
+02 - Botujuru,Av. Samuel Martins - Vila Progresso - Jundiai,Posto Shell,4:46
+02 - Botujuru,R. Santa Catarina - Jd. Esplanada - Jundiai,Ponto de onibus Urbano,4:47
+02 - Botujuru,R. Zuferey - Jd. Esplanada - Jundiai,Ponto de onibus Urbano,4:48
+02 - Botujuru,R. Lestapis - Vl . Isabel - Jundiai,Ponto de onibus Urbano,4:49
+02 - Botujuru,Rua Sao luiz - Vl . Isabel - Jundiai,Ponto de onibus Urbano,4:50
+02 - Botujuru,R. Cica - Jd. Cica - Jundiai,Telha Norte,4:51
+02 - Botujuru,R. Messina - Jd. Messina - Jundiai,Sobam,4:53
+02 - Botujuru,Av.Nove de Julho - Jd. Paulista - Jundiai,Rodoviaria,4:56
+02 - Botujuru,Marginal Rod. Anhanguera - Anhangabau - Jundiai,Sem Ponto,4:58
+02 - Botujuru,Rod. Anhanguera - Retiro - Jundiai,Sem Ponto,5:00
+02 - Botujuru,Rod. Dom Gabriel Paulino Couto - Distrito Industrial - Jundiai,Sem Ponto,5:02
+03 - Franco Da Rocha,R. Ernest Steinkopff - Centro - Franco da Rocha,Rede Construir,4:15
+03 - Franco Da Rocha,R. Basilio Fazzi - Centro - Franco da Rocha,McDonald's,4:16
+03 - Franco Da Rocha,R. Benedito Fagundes Marques - Centro - Franco da Rocha,Posto Zebrinha,4:18
+03 - Franco Da Rocha,R. Paoli - Vila Irma - Franco da Rocha,Friomaq,4:19
+03 - Franco Da Rocha,R. Tiradentes - Vila Bazu - Franco da Rocha,Padaria Bazu Paes e Doces,4:20
+03 - Franco Da Rocha,Av. Sao Paulo - Pq. Paulista - Franco da Rocha,Igreja Universal,4:25
+03 - Franco Da Rocha,R. Geronimo Caetano Garcia - Centro - Francisco Morato,Lojas Cem,4:35
+03 - Morato Apoio,R. Geronimo Caetano Garcia - Centro - Francisco Morato,Lojas Cem,4:35
+03 - Morato Apoio,R. Joao Mendes Junior - Centro - Francisco Morato,Esplanada Moveis,4:40
+03 - Morato Apoio,Rod. Manoel Silverio Pinto - Belem Estacao - Francisco Morato,Hospital Estadual de Francisco Morato - Lacaz,4:43
+03 - Morato Apoio,Rod. Manoel Silverio Pinto - Belem Estacao - Francisco Morato,Prefeitura Municipal de Francisco Morato,4:44
+03 - Morato Apoio,Rod. Manoel Silverio Pinto - Jd. Bandeirantes - Francisco Morato,Federzoni Casa & Construcao,4:47
+03 - Morato Apoio,Rod. Presidente Trancredo Neves - Chacara Maristela - Franco da Rocha,Aldeia da Esperanca,4:54
+03 - Morato Apoio,Rod. Edgar Maximo Zamboto - Chacara Maristela - Franco da Rocha,Kelvion,4:58
+03 - Morato Apoio,Av. Dr. Jose Luiz Leme Maciel - Jordanesia - Cajamar,Paroquia Sao Paulo Apostolo,5:05
+03 - Morato Apoio,Marg. Rod. Anhanguera - Jundiai - Jundiai,Sem Ponto,5:15
+03 - Morato Apoio,Rod. Bandeirantes - Jundiai - Jundiai,Sem Ponto,5:16
+04 - Itupeva,R. Geraldo Ferraz - Monte Serrat - Itupeva,Caixa D'agua,3:50
+04 - Itupeva,R. Vicente Tonoli - Monte Serrat - Itupeva,Recanto Nordestino,3:55
+04 - Itupeva,Praca Sao Paulo - Centro - Itupeva,Rodoviaria de Itupeva,4:02
+04 - Itupeva,Rua Emancipadores do Municipio - Centro - Itupeva,Latorre Pizzaria,4:04
+04 - Itupeva,Rod. Vice Pref. Hermenegildo Tonoli - Jd. Ana Luiza - Itupeva,Supermercado Monte Serrat,4:08
+04 - Itupeva,R. Benedita Cardoso Madeira - Res. Pacaembu - Itupeva,Posto Amigao de Itupeva,4:09
+04 - Itupeva,R. Benedita Cardoso Madeira - Res. Pacaembu - Itupeva,Bar do indio,4:09
+04 - Itupeva,Av. Luiza Ferreira Pacheco Stella - Vila Sao Joao - Itupeva,Parque da Cidade,4:10
+04 - Itupeva,Av. Emilio Chechinato - Jd. Alegria - Itupeva,Bosal,4:15
+04 - Itupeva,R. Amperico Simoes - Bairro da Chave - Itupeva,Fareva Itupeva,4:20
+04 - Itupeva,Rod. Vice Pref. Hermenegildo Tonoli - Medeiros - Jundiai,Restaurante Sao Judas Tadeu,4:25
+04 - Itupeva,Av. Reynaldo de Porcari - Medeiros - Jundiai,Chacara das Palmeiras Imperiais,4:27
+04 - Itupeva,Av. Joao Goncalves dos Reis - Medeiros - Jundiai,Tato Colegio,4:28
+04 - Itupeva,Av. Francisco Nobre - Medeiros - Jundiai,Mini Shopping Sarapiranga,4:30
+04 - Itupeva,Av. Jose Benassi - Res. Jundiai - Jundiai,Condominio Gaivotas,4:35
+04 - Itupeva,Av. Eunice Cavalcante de Souza Queiros - Res. Jundiai - Jundiai,Escola Rola Bola,4:37
+04 - Itupeva,Av. Prof. Raymundo Faggiano - Pq. Almerinda Chaves - Jundiai,Clube Komb,4:40
+04 - Itupeva,R. Mariano Latorre - Pq. Almerinda Chaves - Jundiai,Lava Car Radar,4:43
+04 - Itupeva,R. Roque Marcelino - Pq. Almerinda Chaves - Jundiai,Mercado Alianca,4:44
+04 - Itupeva,Av. Pastor Francesco Ciaramella - Pq. Almerinda Chaves - Jundiai,Ponto de onibus Urbano,4:45
+04 - Itupeva,Est. Mun. do Varjao - Jd. Novo Horizonte - Jundiai,Mercado Monteiro,4:48
+04 - Itupeva,Rua Daniel da Silva - Fazenda Grande - Jundiai,UBS,4:57
+04 - Itupeva,R. Nancy Carlota Netto - Eloy Chaves - Jundiai,Ponto de onibus Urbano do Covabra,5:00
+04 - Itupeva,R. Romeu Seckler Machado - Eloy Chaves - Jundiai,Coopercica,5:02
+04 - Itupeva,Av. Luis Jose Sereno - Eloy Chaves - Jundiai,Favaro Materiais para Construcao,5:04
+04 - Itupeva,Av. Antonio Pincinato - Rec. Quarto Centenario - Jundiai,Condominio Altissimi,5:12
+04 - Itupeva,Av. Amelia Latorre - Jd. Guanabara - Jundiai,Agro Retiro Comercio Racoes,5:13
+04 - Itupeva,Av. Joao Antonio Meccatti - Jd. Planalto - Jundiai,Veredas Motel,5:16
+04 - Itupeva,Rod. Dom Gabriel Paulino Couto - Distrito Industrial - Jundiai,Sem Ponto,5:20
+05 - Ivoturucaia,Av. Jose Mezzalira - Ivoturucaia - Jundiai,Esquina com a Rua das Peras (Divisa com Campo Limpo),4:00
+05 - Ivoturucaia,R. Arcangelo Bianchini - Ivoturucaia - Jundiai,Monsenhor Venerando Nalini,4:03
+05 - Ivoturucaia,Av. Dr. Walter Gossner - Jd. America 4 - Varzea Paulista,Posto Serrano,4:05
+05 - Ivoturucaia,R. Parati - Jd. America 4 - Varzea Paulista,Lateral Cemiterio,4:06
+05 - Ivoturucaia,R. Itupeva - Jd. America 4 - Varzea Paulista,Esquina com a Rua Parati,4:07
+05 - Ivoturucaia,Av. Pacaembu - Jd. Paulista - Varzea Paulista,Escola Estadual Armando Dias,4:11
+05 - Ivoturucaia,Av. Pacaembu - Jd. Paulista - Varzea Paulista,Panobianco Pacaembu,4:12
+05 - Ivoturucaia,R.Guaratingueta - Jd. Paulista - Varzea Paulista,Padaria e Confeitaria JP,4:13
+05 - Ivoturucaia,Av. Sao Vicente - Jd. Paulista - Varzea Paulista,Quadra de areia,4:14
+05 - Ivoturucaia,Av. Tanabi - Jd. America 3 - Varzea Paulista,Igreja Congregacao,4:15
+05 - Ivoturucaia,Av. Pequeri - Jd. America 3 - Varzea Paulista,Mineirinho Gas,4:16
+05 - Ivoturucaia,Av. Tapira - Jd. America 3 - Varzea Paulista,Ponto de onibus Urbano,4:17
+05 - Ivoturucaia,R. Tupa - Jd. America 2 - Varzea Paulista,Ponto de onibus Urbano,4:18
+05 - Ivoturucaia,R. Nipoa - Jd. America 2 - Varzea Paulista,Mercado Alianca,4:19
+05 - Ivoturucaia,Rua Irere - Jd. America 2 - Varzea Paulista,Caixa D'agua,4:20
+05 - Ivoturucaia,R. Oros - Jd. America 2 - Varzea Paulista,Esquina com a Rua Barretos,4:21
+05 - Ivoturucaia,R. Barretos - Jd. Novo Mundo - Varzea Paulista,Ate entrada do Jardim novo Mundo (Mercado Tradicao),4:25
+05 - Ivoturucaia,R. Canarios - Cidade Nova 2 - Varzea Paulista,Ponto de onibus Urbano,4:30
+05 - Ivoturucaia,R. Bem Te Vi - Cidade Nova 2 - Varzea Paulista,Megga Mania Cidade Nova 2,4:26
+05 - Ivoturucaia,R. Curio - Cidade Nova 2 - Varzea Paulista,Tuca Cabelo e Arte,4:25
+05 - Ivoturucaia,R. Joao de Barro - Cidade Nova 2 - Varzea Paulista,Pizzaria deguste,4:24
+05 - Ivoturucaia,R. Garcas - Cidade Nova 2 - Varzea Paulista,Loja Van modas,4:25
+05 - Ivoturucaia,R. Ricardo Aizza - Cidade Nova 2 - Varzea Paulista,Igreja Congregacao,4:26
+05 - Ivoturucaia,R. Itirapina - Jd. America 1 - Varzea Paulista,Ponto de onibus Urbano,4:28
+05 - Ivoturucaia,R. Guaiba - Jd. America 1 - Varzea Paulista,Tubolar Eletrictubolar Eletrica E Hidraulicaa E Hidraulica,4:29
+05 - Ivoturucaia,R. Maraba - Jd. America 1 - Varzea Paulista,Portal da Comida / Mercado Rama,4:30
+05 - Ivoturucaia,Av. Paraibuna - Jd. America 1 - Varzea Paulista,Mercado Dinho,4:35
+05 - Ivoturucaia,R. Sorocaba - Jd. America 1 - Varzea Paulista,Giga Atacadista,4:40
+05 - Ivoturucaia,Av. Marginal Rio Jundiai - Dristrito Industrial - Varzea Paulista,Posto 1500,4:45
+05 - Ivoturucaia,Rua Santa Maria - Pte. Sao Joao - Jundiai,Mercado Oxxo,4:51
+05 - Ivoturucaia,Av. Luiz Zorzetti - Pte. Sao Joao - Jundiai,Ponto de onibus Urbano,4:53
+05 - Ivoturucaia,R. Dino - Pte. Sao Joao - Jundiai,Congregacao Crista no Brasil - Ponte Sao Joao,4:57
+05 - Ivoturucaia,R. Jose Belesso - Pte. Sao Joao - Jundiai,Centro Automotivo Amaral Pneus,5:00
+05 - Ivoturucaia,Av. Antonio Frederico Ozanan - Vl. Rio Branco - Jundiai,Posto Shell,5:05
+05 - Ivoturucaia,Av. Antonio Frederico Ozanan - Vl. Rio Branco - Jundiai,Maxi Shopping,5:07
+05 - Ivoturucaia,Av. Pref. Luis Latorre - Vl. Hortencias - Jundiai,Churrascaria da fazenda,5:10
+05 - Ivoturucaia,Av. Armando Giassetti - Jd. Sorocabana - Jundiai,Unip,5:12
+05 - Ivoturucaia,Rod. Dom Gabriel Paulino Couto - Distrito Industrial - Jundiai,Sem Ponto,5:15
+06 - Louveira,Rod. Ver. Geraldo Dias - Centro - Louveira,Houseware Brasil Sentido Centro ,4:10
+06 - Louveira,Av. Jose Niero - Centro - Louveira,Ponto em frente a estacao de Louveira Sentido Vinhedo,4:15
+06 - Louveira,Estrada Miguel Bossi - Jd. Niero II - Louveira,Pq. Municipal Capivari,4:17
+06 - Louveira,Rua Recife - Terra Nobre - Louveira,Esquina com Rua Fortaleza,4:18
+06 - Louveira,R. Wagner Luiz Bevilacqua - Pq. Dos Estados - Louveira,Camara Municipal de Louveira,4:19
+06 - Louveira,Rod. Romildo Prado - Pq. Dos Estados - Louveira,sem ponto,4:20
+06 - Louveira,R. Geraldo Burck - Burck - Louveira,Mercado Primavera,4:21
+06 - Louveira,R. Antonio Bonesso - Santo Antonio - Louveira,Bosque do Burck,4:22
+06 - Louveira,R. Santo Miqueletto - Santo Antonio - Louveira,Marcelo Tapeceiro,4:25
+06 - Louveira,R. Luiz Montelato - Santo Antonio - Louveira,Juju Variedades,4:26
+06 - Louveira,R. Evaristo Cavali - Santo Antonio - Louveira,MultiDrogas,4:29
+06 - Louveira,R. das Rosas - Santo Antonio - Louveira,Casa de Cultura,4:30
+06 - Louveira,R. Armando Bertie - Santo Antonio - Louveira,Praca Pedro Sanches,4:32
+06 - Louveira,R. Nerina - Santo Antonio - Louveira,Posto Shell,4:35
+06 - Louveira,Av. Paulo Prado - Santo Antonio - Louveira,Ponto de onibus Urbano,4:37
+06 - Louveira,Av. Comendador Antonio Carbonari - Traviu - Jundiai,Ponto de onibus Urbano,4:46
+06 - Louveira,Av. da Uva - Bairro do Poste - Jundiai,Mercado agua Doce,4:52
+06 - Louveira,Av. Eng. Joao Fernandes Gimenes - Dristrito Industrial - Jundiai,Siemens,4:55
+06 - Louveira,R. Adelino Martins - JD. Das Tulipas - Jundiai,Igreja Assembleia de Deus Ministerio Belem ,4:57
+06 - Louveira,R. Adelino Martins - JD. Das Tulipas - Jundiai,Mercado Xavier,5:00
+06 - Louveira,Av. Eng. Joao Fernandes Gimenes - Dristrito Industrial - Jundiai,Siemens,5:04
+06 - Louveira,Rod. Anhanguera - Dristrito Industrial - Jundiai,Sem Ponto,5:05
+06 - Louveira,Rod. Dom Gabriel Paulino Couto - Distrito Industrial - Jundiai,Sem Ponto,5:15
+07 - Cidade Nova,R. Florindo Zambon - Cidade Nova 2 - Jundiai,Mercado Flores,4:15
+07 - Cidade Nova,R. Atibaia - Cidade Nova 2 - Jundiai,Ponto da Praca Pedro Bonomi,4:16
+07 - Cidade Nova,R. Alfredo Pizzocaro - Tamoio - Jundiai,Padaria Belem,4:17
+07 - Cidade Nova,R. Adamantina - Tamoio - Jundiai,Adega S.O.S,4:18
+07 - Cidade Nova,Av. Carlos angelo Mathion - Tamoio - Jundiai,Igreja Universal,4:19
+07 - Cidade Nova,R. Carlos Humel Guimaraes - Tamoio - Jundiai,Ponto da Escola Vereador Joao Batista Toledo,4:20
+07 - Cidade Nova,R. Sao Jose dos Campos - Vila Nambi - Jundiai,Ponto de onibus Urbano,4:22
+07 - Cidade Nova,R. Palmeira dos indios - Vila Nambi - Jundiai,Ponto de onibus Urbano,4:23
+07 - Cidade Nova,Av. Bento do Amaral Gurgel - Vila Nambi - Jundiai,Farmacia Estrela,4:24
+07 - Cidade Nova,R. Angelo Corradini - Vila Nambi - Jundiai,Ponto da Escola Janet Ferreira Prado,4:25
+07 - Cidade Nova,R. Americo Bruno - Colonia - Jundiai,Sem Ponto,4:26
+07 - Cidade Nova,Av. dos Imigrantes Italianos - Colonia - Jundiai,Terminal Colonia,4:27
+07 - Cidade Nova,R. Luiz Benachio - Colonia - Jundiai,Igreja Colonia,4:33
+07 - Cidade Nova,Av. Comendador Antonio Borim - Colonia - Jundiai,Ponto de onibus Urbano - Entrada Jd. Carpas (Semaforo),4:34
+07 - Cidade Nova,R. Moacir Lopes - Jd. Cacula - Jundiai,Esquina com a Rua Ruy Camargo Duarte,4:35
+07 - Cidade Nova,Av. Giustiniano Borin - Jd. Cacula - Jundiai,Condominio Genova,4:35
+07 - Cidade Nova,R. Padre Roma - Jd. Sao Camilo - Jundiai,Emporio do Kit,4:39
+07 - Cidade Nova,R. Jose Maria Whitaker - Jd. Sao Camilo - Jundiai,Ponto de onibus Urbano,4:40
+07 - Cidade Nova,Av. Sao Camilo - Jd. Sao Camilo - Jundiai,Ponto de onibus Urbano,4:42
+07 - Cidade Nova,R. Espirito Santo - Taruma - Jundiai,Igreja Congregracao,4:44
+07 - Cidade Nova,R. Rio de Janeiro - Jardim Taruma - Jundiai,CRAS Sao Camilo,4:45
+07 - Cidade Nova,Av. Capitao Francisco Copelli - Jardim Taruma - Jundiai,Menor Preco Supermercado,4:46
+07 - Cidade Nova,R. Bernardo Guimaraes - Jardim California - Jundiai,Sem Ponto,4:47
+07 - Cidade Nova,Av. Antonio Raimundo de Oliveira - Jardim California - Jundiai,Ponto de onibus Urbano (Praca),4:49
+07 - Cidade Nova,Av. Humberto Cereser - Jundiai Mirim - Jundiai,Posto Jundiai Mirim,4:50
+07 - Cidade Nova,Rod. Joao Cereer - Pinheirinhos - Jundiai,Parque da Cidade,4:53
+07 - Cidade Nova,Rod. Vereador Geraldo Dias - Torres Sao Jose - Jundiai,Represa DAE,4:55
+07 - Cidade Nova,Rod. Vereador Geraldo Dias - Torres Sao Jose - Jundiai,Rotatoria Terra da Uva,5:00
+07 - Cidade Nova,Av. Andre Costa - Morada das Vinhas - Jundiai,Supermercado Morada,5:01
+07 - Cidade Nova,R. Uva Niagara - Morada das Vinhas - Jundiai,Associacao Crista (ACDC),5:02
+07 - Cidade Nova,R. Uva Niagara - Morada das Vinhas - Jundiai,Gastaldo Lanchonete,5:03
+07 - Cidade Nova,R. Dr. Nelson Martinho - Cecap - Jundiai,Ponto de onibus Urbano,5:05
+07 - Cidade Nova,R. Alceu de Toledo Pontes - Cecap - Jundiai,Ponto de onibus Urbano,5:06
+07 - Cidade Nova,Rod. Vereador Geraldo Dias - Cecap - Jundiai,Terminal CECAP,5:08
+07 - Cidade Nova,Av. Prof. Pedro Clarismundo Fornari - Engordadouro - Jundiai,sem Ponto,5:09
+07 - Cidade Nova,R. Miguel Hilario Navarrete Sanches - Vl. Marlene - Jundiai,Ponto de onibus Urbano,5:10
+07 - Cidade Nova,Av. Bento Figueiredo - Vl. Marlene - Jundiai,Ponto de onibus Urbano (Posto Shell),5:11
+07 - Cidade Nova,Rod. Ver. Geraldo Dias - Hortolandia - Jundiai,sem Ponto,5:12
+07 - Cidade Nova,R. Palmira Cervi Barbaro - Hortolandia - Jundiai,Trigo Fino Pizzaria,5:13
+07 - Cidade Nova,R. Itirapina - Hortolandia - Jundiai,Carecas Bar,5:15
+07 - Cidade Nova,R. Benedito Godoi Ferraz - Vl. Hortolandia - Jundiai,Condominio Residencial Hortolandia III,5:16
+07 - Cidade Nova,Av. Pref. Luis Latorre - Vl. Hortencias - Jundiai,Churrascaria da fazenda,5:18
+07 - Cidade Nova,Av. Armando Giassetti - Meias Aco - Jundiai,Ponto de onibus Urbano,5:20
+07 - Cidade Nova,Rod. Dom Gabriel Paulino Couto - Distrito Industrial - Jundiai,Posto Centenario,5:22
+08 - Jardim Laura,Av. Integracao - Jd. Laura - Campo Limpo Pta,Deposito de Gas do Jardim Laura - Ultragaz,3:55
+08 - Jardim Laura,Rodovia Edgard Maximo Zamboto - Jd. Laura - Campo Limpo Pta,Retorno Em Frente a Entrada do Bairro,3:59
+08 - Jardim Laura,Rodovia Edgard Maximo Zamboto - Jardim Santa Lucia - Campo Limpo Pta,Trevo de Campo Limpo Paulista Entrada Sta. Lucia,4:03
+08 - Jardim Laura,Rua Maria Jose Rodrigues - Jd. Santa Lucia - Campo Limpo Pta,Coopercica,4:05
+08 - Jardim Laura,Rua Colibri - Jd. Guanciale - Campo Limpo Pta,Mini Mercado Elias,4:06
+08 - Jardim Laura,Rua Colibri - Jd. Guanciale - Campo Limpo Pta,Igreja Catolica,4:07
+08 - Jardim Laura,Av. da Saudade - Jd. Guanciale - Campo Limpo Pta,Cemiterio Municipal de Campo Limpo Paulista,4:08
+08 - Jardim Laura,Av. Dom Pedro I - Jd. Guanciale - Campo Limpo Pta,Rapido Luxo Campinas,4:09
+08 - Jardim Laura,Av. Duque de Caxias - Centro Varzea Pta - Varzea Paulista,Shopping Alegria,4:12
+08 - Jardim Laura,Av. Ipiranga - Centro Varzea Pta - Varzea Paulista,Espaco Cidadania,4:15
+08 - Jardim Laura,Rua Sao Jose - Vila Sao Jose - Varzea Paulista,Trevo Loterias,4:18
+08 - Jardim Laura,Rua Arnaldo Gut Junior - Vila Sao Jose - Varzea Paulista,Monica Areia e Pedra,4:20
+08 - Jardim Laura,Rua Tocantins - Jd. Mirante - Varzea Paulista,Bella Pizza Delivery,4:22
+08 - Jardim Laura,Rua Carioba - Jd. Mirante - Varzea Paulista,Creche Jd. Alessandra,4:23
+08 - Jardim Laura,Av. Macauba - Jd. Mirante - Varzea Paulista,Mercado Inova,4:24
+08 - Jardim Laura,Rua Paschoal Gianfrancesco - Jd. Italia - Varzea Paulista,Colegio Futura,4:25
+08 - Jardim Laura,Rua Potiguara - Vila Tupi - Varzea Paulista,Padoka Pao,4:26
+08 - Jardim Laura,Av. Jose Rabelo Portela - Vila Marajo - Varzea Paulista,Centro Esportivo Marajo,4:27
+08 - Jardim Laura,Rua Tanque Velho - Vila Iguacu - Varzea Paulista,Auto Posto CVT,4:30
+08 - Jardim Laura,Rua Pindare - Pq. Guarani - Varzea Paulista,Igreja Catolica,4:32
+08 - Jardim Laura,Av. Jose Rabelo Portela - Vila Popular - Varzea Paulista,Caixa D'agua,4:35
+08 - Jardim Laura,Av. Jose Rabelo Portela - Vila Popular - Varzea Paulista,Paroquia Nossa Senhora de Lourdes,4:38
+08 - Jardim Laura,Av. Padre Jordan - Jd. Bertioga - Varzea Paulista,E.E. Profa. Lavinia Ribeiro Aranha,4:43
+08 - Jardim Laura,Av. das Lelias - Jd. Bahia - Varzea Paulista,Fabrica de Lajes,4:44
+08 - Jardim Laura,Rod. Adail Eduardo Gut - Mursa - Varzea Paulista,Sindicato dos Metalurgicos,4:45
+08 - Jardim Laura,Rod. Presidente Trancredo neves - Castanho - Jundiai,Motel Charleville,4:46
+08 - Jardim Laura,Av. Francisco Napoleao Cid de Freitas - Santa Gertrudes - Jundiai,Posto de Gasolina Ipiranga,4:47
+08 - Jardim Laura,Av. Leonice Gualda Nunes - Santa Gertrudes - Jundiai,Padaria Pao Nosso,4:51
+08 - Jardim Laura,Rua Padre Norberto Mojola - Santa Gertrudes - Jundiai,Millennium Supermercados,4:55
+08 - Jardim Laura,Rua Manoel Jose de Carvalho - Santa Gertrudes - Jundiai,Mercearia Lucena,4:56
+08 - Jardim Laura,Rua Antonio Tacildo Vion - Santa Gertrudes - Jundiai,La Petite Burguer,4:57
+08 - Jardim Laura,Rua Eduardo Povoa - Santa Gertrudes - Jundiai,KingBlue Multimarcas,4:58
+08 - Jardim Laura,Rua Ricardo Cesar Favaro - Santa Gertrudes - Jundiai,Pneus P.H.K,5:00
+08 - Jardim Laura,Av. Clemente Rosa - Vila Maringa - Jundiai,Agro Val Racoes,5:05
+08 - Jardim Laura,Av. Antonio Barchetta - Jd. Copacabana - Jundiai,Ponto de onibus Urbano,5:07
+08 - Jardim Laura,Rua Mauro Torres - Jd. Copacabana - Jundiai,Padaria Santa Clara,5:08
+08 - Jardim Laura,Rua Alexandre Vacari - Vila Maringa - Jundiai,Coronel Cevada,5:09
+08 - Jardim Laura,Rua Maringa - Vila Maringa - Jundiai,Jundia Portoes,5:10
+08 - Jardim Laura,Marginal da Rod. Anhanguera - Vila Rami - Jundiai,Ponto de onibus Urbano (Vila Rami),5:14
+08 - Jardim Laura,Marginal da Rod. Anhanguera - Vianelo - Jundiai,Ponto de onibus Urbano (Rua Uniao),5:15
+08 - Jardim Laura,Rod. Anhanguera - Retiro - Jundiai,Passarela Carrefour,5:19
+08 - Jardim Laura,Rod. Dom Gabriel Paulino Couto - Distrito Industrial - Jundiai,Sem Ponto,5:22

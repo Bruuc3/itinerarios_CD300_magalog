@@ -14,21 +14,24 @@
         <a href="index.html" class="back-arrow" aria-label="Voltar para a página inicial">
             <img src="images/back-button.png" alt="Voltar" class="back-arrow-img">
         </a>
-        <a href="index.html"><h1>Itinerários Magalu CD300 - ADM Sexta</h1></a>
+        <a href="index.html"><h1>Itinerários Magalu CD300 - 4º Turno</h1></a>
+        
     </header>
     <div class="gradiente"></div>
 
     <p>Escolha um itinerário abaixo para visualizar</p>
 
     <div class="containeritinerarios">
-        <a class="containerturnos-item">01 - Campo Limpo</a>
+        <a class="containerturnos-item">01 - Colina Do Pontal</a>
         <a class="containerturnos-item">02 - Botujuru</a>
         <a class="containerturnos-item">03 - Franco Da Rocha</a>
+        <a class="containerturnos-item">03 - Morato Apoio</a>
         <a class="containerturnos-item">04 - Itupeva</a>
-        <a class="containerturnos-item">05 - Varzea Paulista</a>
+        <a class="containerturnos-item">05 - Ivoturucaia</a>
         <a class="containerturnos-item">06 - Louveira</a>
         <a class="containerturnos-item">07 - Cidade Nova</a>
-        <a class="containerturnos-item">08 - Moinho</a>
+        <a class="containerturnos-item">08 - Jardim Laura</a>
+        <a class="containerturnos-item">Campinas</a>
     </div>
 
         <div id="overlay" class="overlay">
@@ -59,7 +62,7 @@
     
         // Função para carregar o arquivo CSV
         function loadCSV() {
-        Papa.parse("itinerariosadmsexta.csv", {
+        Papa.parse("itinerariost4.csv", {
         download: true,
         header: true,
         encoding: "UTF-8", // Garante que o arquivo seja interpretado como UTF-8
